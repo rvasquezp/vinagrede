@@ -408,3 +408,17 @@ h1.slideInDown{
     min-width: 70%;
 }
 
+
+.fotter-logo img{
+    max-width: 80%;
+}
+.producto{
+    font-size: 1.4em;
+}
+.valores-item{
+    border: solid 5px #3CB815;
+    border-radius: 20px;
+}
+.valores-item p {
+    font-size: 1.4em;
+}
