@@ -191,6 +191,7 @@
     }
     #header-carousel {
         height: 230px ;
+        padding-top: 23px;
     }
     body{
         min-width: 385px;
