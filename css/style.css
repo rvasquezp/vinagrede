@@ -189,6 +189,13 @@
         height: 100%;
         object-fit: cover;
     }
+    #header-carousel {
+        height: 230px ;
+        
+    }
+    body{
+        min-width: 385px;
+    }
 }
 
 .page-header {
@@ -393,9 +400,10 @@ h1.slideInDown{
     display: none;
 }
 #header-carousel .carousel-item img {
-    width: 70%;
-    height: 70%;
+    width: 60%;
+    height: 60%;
 }
 #header-carousel {
     min-width: 70%;
 }
+
